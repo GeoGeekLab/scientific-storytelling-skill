@@ -95,23 +95,23 @@ and extract a section map and paragraph-level patterns.
 ## 🛠️ System Architecture
 
 ```text
-      Research material + target format
-                     |
-                     v
-             SKILL.md (router)
-                     |
-          +----------+----------+
-          |          |          |
-       Plan/Draft  Diagnose    Adapt
-          |          |          |
-          +----------+----------+
-                     |
-                     v
-         On-demand references
-              + worksheets
-                     |
-                     v
-           Research narrative
+          Research material + target format
+                         |
+                         v
+                 SKILL.md (router)
+                         |
+           +-------------+-------------+
+           |       |           |       |
+         Plan    Draft      Diagnose  Adapt
+           |       |           |       |
+           +-------------+-------------+
+                         |
+                         v
+            On-demand references
+                 + worksheets
+                         |
+                         v
+               Research narrative
 ```
 
 **Lean context engineering:** `SKILL.md` routes the task. Supporting references load on demand. Worksheets give the output a structure. Evidence gets the bandwidth.
