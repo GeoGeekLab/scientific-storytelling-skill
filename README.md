@@ -1,15 +1,9 @@
 # Scientific Storytelling
 
-> **Give your research a narrative spine.**
-
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](SKILL.md)
 [![Type](https://img.shields.io/badge/Agent_Skill-Modular-green.svg)](https://agentskills.io/)
 
 A modular [Agent Skill](https://agentskills.io/) for planning, drafting, diagnosing, and revising scientific research articles. Built from the University of Guelph's *Writing in the Sciences* modules, it brings together research-article conventions, **ABT (And–But–Therefore)**, **loglines**, and **storyboarding**.
-
-> *Research provides the evidence. Narrative design makes the argument navigable.*
->
-> **Think of it as a dependency graph for a scientific paper—one readers can follow without a debugger.**
 
 ---
 
@@ -21,8 +15,6 @@ A modular [Agent Skill](https://agentskills.io/) for planning, drafting, diagnos
 | **Draft** | Develop a focused research-article section. | Introduction, Methods, Results, Discussion, title, abstract |
 | **Diagnose** | Trace the argument through an existing draft. | ABT audit, AAA/DHY patterns, Known-to-New flow, reverse outlining |
 | **Adapt** | Shape a research narrative for other formats. | Theses, posters, presentations, grant summaries, elevator pitches |
-
-Research-stage awareness keeps the narrative aligned with available evidence, from experimental design through analyzed results.
 
 ---
 
