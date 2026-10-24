@@ -26,7 +26,7 @@ Research-stage awareness keeps the narrative synchronized with the available evi
 Paste this into **Claude Code** or **Codex** with terminal access:
 
 ```text
-Install the scientific-storytelling Agent Skill from https://github.com/GeoGeekLab/scientific-storytelling-skill-skill globally for this assistant, preserve the complete skill directory, and verify that the skill is discoverable.
+Install the scientific-storytelling Agent Skill from https://github.com/GeoGeekLab/scientific-storytelling-skill globally for this assistant, preserve the complete skill directory, and verify that the skill is discoverable.
 ```
 
 ### One-command install
