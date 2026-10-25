@@ -5,7 +5,7 @@
 
 <!-- GeoGeekLab VIS: BEGIN -->
 <p align="center">
-  <a href="https://github.com/GeoGeekLab/geogeeklab-visual-identity/tree/main/new-mascots/scientific-storytelling-skill"><img src="https://raw.githubusercontent.com/GeoGeekLab/geogeeklab-visual-identity/main/new-mascots/scientific-storytelling-skill/concept-readme-hero.svg" alt="Story Swallow, the Scientific Storytelling mascot" width="740"></a>
+  <img src="https://raw.githubusercontent.com/GeoGeekLab/geogeeklab-visual-identity/main/readme-artwork/v3/scientific-storytelling-skill/readme-artwork.webp" alt="Story Swallow connecting scientific research into a coherent story" width="390">
 </p>
 <!-- GeoGeekLab VIS: END -->
 
