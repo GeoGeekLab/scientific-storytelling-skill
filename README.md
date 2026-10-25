@@ -3,6 +3,12 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](SKILL.md)
 [![Type](https://img.shields.io/badge/Agent_Skill-Modular-green.svg)](https://agentskills.io/)
 
+<!-- GeoGeekLab VIS: BEGIN -->
+<p align="center">
+  <a href="https://github.com/GeoGeekLab/geogeeklab-visual-identity/tree/main/new-mascots/scientific-storytelling-skill"><img src="https://raw.githubusercontent.com/GeoGeekLab/geogeeklab-visual-identity/main/new-mascots/scientific-storytelling-skill/concept-readme-hero.svg" alt="Story Swallow, the Scientific Storytelling mascot" width="740"></a>
+</p>
+<!-- GeoGeekLab VIS: END -->
+
 **Good science starts with a good question. A good paper tells a clear story.**
 
 Here's the thing: You can have an important research question, sound methods, and useful results — and still write a paper that's hard to follow.
